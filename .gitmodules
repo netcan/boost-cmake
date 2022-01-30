@@ -1,0 +1,138 @@
+[submodule "fusion"]
+	path = fusion
+	url = https://github.com/boostorg/fusion.git
+[submodule "move"]
+	path = move
+	url = https://github.com/boostorg/move.git
+[submodule "context"]
+	path = context
+	url = https://github.com/boostorg/context.git
+[submodule "core"]
+	path = core
+	url = https://github.com/boostorg/core.git
+[submodule "tuple"]
+	path = tuple
+	url = https://github.com/boostorg/tuple.git
+[submodule "config"]
+	path = config
+	url = https://github.com/boostorg/config.git
+[submodule "array"]
+	path = array
+	url = https://github.com/boostorg/array.git
+[submodule "unordered"]
+	path = unordered
+	url = https://github.com/boostorg/unordered.git
+[submodule "smart_ptr"]
+	path = smart_ptr
+	url = https://github.com/boostorg/smart_ptr.git
+[submodule "type_traits"]
+	path = type_traits
+	url = https://github.com/boostorg/type_traits.git
+[submodule "io"]
+	path = io
+	url = https://github.com/boostorg/io.git
+[submodule "container_hash"]
+	path = container_hash
+	url = https://github.com/boostorg/container_hash.git
+[submodule "filesystem"]
+	path = filesystem
+	url = https://github.com/boostorg/filesystem.git
+[submodule "function"]
+	path = function
+	url = https://github.com/boostorg/function.git
+[submodule "algorithm"]
+	path = algorithm
+	url = https://github.com/boostorg/algorithm.git
+[submodule "assert"]
+	path = assert
+	url = https://github.com/boostorg/assert.git
+[submodule "regex"]
+	path = regex
+	url = https://github.com/boostorg/regex.git
+[submodule "atomic"]
+	path = atomic
+	url = https://github.com/boostorg/atomic.git
+[submodule "optional"]
+	path = optional
+	url = https://github.com/boostorg/optional.git
+[submodule "container"]
+	path = container
+	url = https://github.com/boostorg/container.git
+[submodule "system"]
+	path = system
+	url = https://github.com/boostorg/system.git
+[submodule "concept_check"]
+	path = concept_check
+	url = https://github.com/boostorg/concept_check.git
+[submodule "variant2"]
+	path = variant2
+	url = https://github.com/boostorg/variant2.git
+[submodule "align"]
+	path = align
+	url = https://github.com/boostorg/align.git
+[submodule "iterator"]
+	path = iterator
+	url = https://github.com/boostorg/iterator.git
+[submodule "detail"]
+	path = detail
+	url = https://github.com/boostorg/detail.git
+[submodule "mp11"]
+	path = mp11
+	url = https://github.com/boostorg/mp11.git
+[submodule "intrusive"]
+	path = intrusive
+	url = https://github.com/boostorg/intrusive.git
+[submodule "static_assert"]
+	path = static_assert
+	url = https://github.com/boostorg/static_assert.git
+[submodule "conversion"]
+	path = conversion
+	url = https://github.com/boostorg/conversion.git
+[submodule "mpl"]
+	path = mpl
+	url = https://github.com/boostorg/mpl.git
+[submodule "fiber"]
+	path = fiber
+	url = https://github.com/boostorg/fiber.git
+[submodule "format"]
+	path = format
+	url = https://github.com/boostorg/format.git
+[submodule "winapi"]
+	path = winapi
+	url = https://github.com/boostorg/winapi.git
+[submodule "integer"]
+	path = integer
+	url = https://github.com/boostorg/integer.git
+[submodule "predef"]
+	path = predef
+	url = https://github.com/boostorg/predef.git
+[submodule "range"]
+	path = range
+	url = https://github.com/boostorg/range.git
+[submodule "bind"]
+	path = bind
+	url = https://github.com/boostorg/bind.git
+[submodule "pool"]
+	path = pool
+	url = https://github.com/boostorg/pool.git
+[submodule "exception"]
+	path = exception
+	url = https://github.com/boostorg/exception.git
+[submodule "preprocessor"]
+	path = preprocessor
+	url = https://github.com/boostorg/preprocessor.git
+[submodule "throw_exception"]
+	path = throw_exception
+	url = https://github.com/boostorg/throw_exception.git
+[submodule "type_index"]
+	path = type_index
+	url = https://github.com/boostorg/type_index.git
+[submodule "typeof"]
+	path = typeof
+	url = https://github.com/boostorg/typeof.git
+[submodule "function_types"]
+	path = function_types
+	url = https://github.com/boostorg/function_types.git
+[submodule "utility"]
+	path = utility
+	url = https://github.com/boostorg/utility.git
